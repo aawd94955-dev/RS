@@ -1,4 +1,3 @@
-// 비밀번호 표시/숨김 토글
 const pwInput = document.getElementById('pw');
 const pwToggle = document.getElementById('pw-toggle');
 const eyeIcon = document.getElementById('eye-icon');
